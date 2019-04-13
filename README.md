@@ -39,7 +39,7 @@ python -m ipykernel install --user --name quadcop --display-name "montecarlo"
 4. Open the notebook.
 
 ~~~~
-jupyter notebook MonteCarlo.ipynb
+jupyter notebook Monte_Carlo.ipynb
 ~~~~
 
 5. Before running code, change the kernel to match the quadcop environment by using the drop-down menu (Kernel > Change kernel > quadcop). Then, follow the instructions in the notebook.
