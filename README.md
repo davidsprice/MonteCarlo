@@ -10,11 +10,6 @@ Monte Carlo
 ## Problem Type :
 TBD
 
-## Final Result :
-Final Reward-Episode Plot :
-
-![](Final_Quadcopter_Reward_Plot.png)
-
 # Project Instructions
 1. Clone the repository and navigate to the downloaded folder.
 
