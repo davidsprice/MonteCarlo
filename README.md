@@ -2,7 +2,7 @@
 Monte Carlo mini-project for the Advanced Machine Learning course of Udacity's Machine Learning nano-degree.
 
 ## Target :
-Training a reinforcement learning (RL) agent (quadcopter controller) to learn to fly and perform the defined tasks in direction to maximise reward.
+Writing my own implementations of many Monte Carlo (MC) algorithms.
 
 ## Algorithm Class :
 Monte Carlo
