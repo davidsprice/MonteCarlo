@@ -33,7 +33,7 @@ source activate MonteCarlo
 3. Create an [IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the Monte Carlo environment.
 
 ~~~~
-python -m ipykernel install --user --name quadcop --display-name "montecarlo"
+python -m ipykernel install --user --name montecarlo --display-name "montecarlo"
 ~~~~
 
 4. Open the notebook.
