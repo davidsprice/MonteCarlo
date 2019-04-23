@@ -1,5 +1,5 @@
 # MonteCarlo
-Monte Carlo mini-project for the Advanced Machine Learning course of Udacity's Machine Learning nanodegree.
+Monte Carlo mini-project for the Advanced Machine Learning course of Udacity's Machine Learning nano-degree.
 
 ## Target :
 Writing my own implementations of many Monte Carlo (MC) algorithms.
